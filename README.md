@@ -1,2 +1,2 @@
 # Telethon-Pyrogram-session-strings
-A script to generate session strings for either Telethon or Pyrogram
+The script is a slightly modified version of its original from: https://replit.com/@viperadnan/genstring so credits to viperadnan.
