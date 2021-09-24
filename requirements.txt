@@ -1,0 +1,2 @@
+pyrogram==1.2.9
+telethon==1.22.0
